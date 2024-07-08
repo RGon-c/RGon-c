@@ -12,7 +12,6 @@
 
 ### Stack
 
-<div style="display:flex; justify-content:space-between; width:100%; flex-wrap:wrap;">
 
 <p align="left">
      <a href="https://skillicons.dev" >
@@ -26,11 +25,9 @@
     </a>
 </p>
 
-</div>
-
 ### Tools
 
-<p align="center">
+<p align="left">
      <a href="https://skillicons.dev" width="45%" >
         <img style="margin: 10px" src="https://skillicons.dev/icons?i=vscode,figma,git,github,blender,photoshop,&perline=7"alt="My Skills"/> 
     </a>
