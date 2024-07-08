@@ -1,37 +1,43 @@
 ### `I'm a beginner web developer`
+
 ### Stats
+
 ![Codeship](https://www.codewars.com/users/RGon-c/badges/large)
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/RGon-c?font=dancing_script?border=0&radius=20)](https://leetcode.com/RGon-c)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RGon-c&theme=tokyonight&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
-
 ## Language and tools
 
-### FrontEnd stack
+### Stack
 
+<div style="display:flex; justify-content:space-between; width:100%; flex-wrap:wrap;">
 
-![FLUTTER](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
-![FLUTTER](https://img.shields.io/badge/-Vue3-090909?style=for-the-badge&logo=Vue.js)
-![FLUTTER](https://img.shields.io/badge/-jQuery-090909?style=for-the-badge&logo=jQuery)
-![FLUTTER](https://img.shields.io/badge/-bootstrap-090909?style=for-the-badge&logo=Bootstrap)
-![FLUTTER](https://img.shields.io/badge/-Tailwind-090909?style=for-the-badge&logo=tailwindcss)
-![FLUTTER](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=HTML5)
+<p align="left">
+     <a href="https://skillicons.dev" >
+        <img  src="https://skillicons.dev/icons?i=css,html,vue,js,jquery,bootstrap,tailwind"alt="My Skills"/> 
+    </a>
+</p>
 
-### Backend stack
+<p align="left">
+     <a href="https://skillicons.dev" >
+        <img src="https://skillicons.dev/icons?i=laravel,php,mysql"alt="My Skills"/> 
+    </a>
+</p>
 
-![FLUTTER](https://img.shields.io/badge/-Laravel-090909?style=for-the-badge&logo=Laravel)
-![FLUTTER](https://img.shields.io/badge/-PHP-090909?style=for-the-badge&logo=PHP)
-![FLUTTER](https://img.shields.io/badge/-sql-090909?style=for-the-badge&logo=MySql&logoColor=00648B)
+</div>
 
+### Tools
+
+<p align="center">
+     <a href="https://skillicons.dev" width="45%" >
+        <img style="margin: 10px" src="https://skillicons.dev/icons?i=vscode,figma,git,github,blender,photoshop,&perline=7"alt="My Skills"/> 
+    </a>
+</p>
 
 ### Contact me
-
 [![VK](https://img.shields.io/badge/-VK-090909?style=for-the-badge&logo=VK&logoColor=0037ff)](https://vk.com/heaventold)
 [![TG](https://img.shields.io/badge/-TG-090909?style=for-the-badge&logo=Telegram)](https://t.me/HeavenTold)
 [![INST](https://img.shields.io/badge/-INST-090909?style=for-the-badge&logo=instagram)](https://www.instagram.com/heaven_told)
-
 
