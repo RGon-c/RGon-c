@@ -15,7 +15,7 @@
 
 <p align="left">
      <a href="https://skillicons.dev" >
-        <img  src="https://skillicons.dev/icons?i=css,html,vue,vite,vuetify,ts,js,jquery,bootstrap,tailwind"alt="My Skills"/> 
+        <img  src="https://skillicons.dev/icons?i=ts,js,css,html,vue,nuxt,vite,vuetify,jquery,bootstrap,tailwind"alt="My Skills"/> 
     </a>
 </p>
 
