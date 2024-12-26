@@ -1,4 +1,4 @@
-### `I'm a beginner web developer`
+### `I'm a junior+ web developer`
 
 ### Stats
 
