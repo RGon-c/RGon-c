@@ -33,8 +33,3 @@
     </a>
 </p>
 
-### Contact me
-[![VK](https://img.shields.io/badge/-VK-090909?style=for-the-badge&logo=VK&logoColor=0037ff)](https://vk.com/heaventold)
-[![TG](https://img.shields.io/badge/-TG-090909?style=for-the-badge&logo=Telegram)](https://t.me/HeavenTold)
-[![INST](https://img.shields.io/badge/-INST-090909?style=for-the-badge&logo=instagram)](https://www.instagram.com/heaven_told)
-
