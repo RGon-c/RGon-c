@@ -1,4 +1,4 @@
-### `I'm a junior+ web developer`
+### `I'm a middle- front-developer`
 
 ### Stats
 
